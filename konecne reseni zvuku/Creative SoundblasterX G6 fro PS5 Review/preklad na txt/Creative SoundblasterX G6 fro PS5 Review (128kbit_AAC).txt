@@ -1,0 +1,200 @@
+The Creative Sound Blaster XG6.
+Amazing device, but is it worth it for the PS5?
+Let's find out.
+Originally priced at £129.99 here in UK,
+nowadays it's constantly on sale between £80 and £90.
+There's a 1.2 meter long micro USB to USB-A cable
+and a mini Toslink to Toslink cable in the box.
+The device is completely made out of plastic.
+There's a digital volume dial at the front,
+which is accompanied by a combo jack.
+So if your headset only has one 3.5mm jack,
+the mic will still work.
+There's also a separate mic jack next to it.
+On the side of the device, we have three buttons.
+One is for the Scout mode, the other is SBX,
+and this one is a switch for low and high gain.
+The rear, we have a line and optical in
+and line and optical out,
+and the micro USB port,
+which is used for connection and power.
+The bottom of the device has this massive rubber insert,
+so on the desk it stays securely.
+The setup and changes on the device
+are only done through the Creative Sound Blaster
+command software, which is on the PC or Mac.
+There's a very handy guide explaining
+what these different options do.
+We get a very nice 10-band EQ option,
+which one set will be saved onto the device.
+Playback have different options for the audio quality.
+I found 24 bit, 48 kilohertz
+to be the best for some reason.
+And the recording, we have some very nice
+and funny voice morph options,
+but unfortunately they are only available on the PC
+and don't work on the PlayStation 5.
+So there are two ways of using the device on the PS5.
+One with the USB-only method, very simple.
+Just plug the USB, the system picks it up.
+The other is using a HDMI audio extractor.
+Let's quickly take a look at the USB-only method.
+The device is plugged in,
+and in our sound settings,
+we can see the input device is recognized
+as Sound Blaster XG6,
+and you can adjust the microphone level and stuff.
+The output, again, USB headset.
+If you're using the USB-only method,
+we need to make sure the output to headphone
+is set to all audio.
+With the USB, you have the ability
+to enable 3D audio as well,
+which is a big plus in my opinion.
+So now I have it set up with the HDMI audio extractor
+and feeding the device with the optical input as well.
+Just quickly gonna show you what we need to do
+in terms of the settings on the PS5.
+So only thing we need to change
+is we need to go to the audio output,
+and the output to headphones,
+we need to change it to voice chat audio only.
+This will enable our HDMI device type.
+We need to change that from TV to AV amplifier
+and change the channels from two to 5.1.
+This is what creative suggest,
+and I got the best results whilst you doing this as well.
+So just quickly going to show you guys
+the operation on the device itself.
+So when the LED lights are white on by the volume dial,
+this means that we are in the global volume control.
+So the LEDs do go brighter and dimmer,
+depending what you are doing.
+If you press and hold the dial, it will turn red.
+And when it's turned red,
+there's a LED light on this side.
+If it's blinking, that means your side tone is disabled.
+When it's red, if you press it one more time,
+when the light is solid,
+that means the side tone's been enabled.
+Now if I change, if I basically move the dial,
+we can adjust how much of the side tone
+you are hearing in your headset.
+And if I wanna disable it, same thing,
+I need to make sure that I'm in the red LED mode,
+press it one more time, LED.
+This tiny microphone LED blinking means
+that my side tone has been disabled.
+Now if I have the optical in
+and I press and hold one more time,
+the top LED and the other LED, they will change.
+Green means, so this is the voice mix feature.
+You only get this if you have the optical coming in.
+If it's just a USB, if you were in the red mode,
+you'll go back into the white LED mode.
+So here what we do is if we rotate counterclockwise,
+now we're getting more of the chat.
+So blue LED means we're getting more of the chat.
+If we go all the way, when it blinks,
+that means it's just chat, no game.
+Coming back is, so when it comes back to green,
+that means we have the perfect mix.
+And so this yellow, orange-ish,
+basically now we're getting the game audio,
+which is counterclockwise if you do it.
+So this is like cutting out the chat
+and this is just the game audio.
+And blinking means that we are at the max.
+So the same thing, this is like bringing back to green,
+that means we have the perfect mixture of both.
+Holding the volume dial again,
+we come back to the red LED and the white LED here.
+That means we are back into the normal global volume control.
+On this side, the buttons that we have,
+we can turn the scout mode on and off.
+I didn't like that, the processing.
+But this is very useful, the SBX button.
+When the light is lit, that means all the processing
+I showed you that we set in the command software,
+that's been applied right now.
+If I press and turn it off,
+that means none of the EQ and the bass
+and whatever surround setting, nothing's been applied.
+So you kind of have some control over it.
+Press it again, now it's been applied.
+So that's just a quick overview
+of the function on the device itself.
+So let's talk about the sound quality, guys.
+I have to say, using it in the USB-only mode,
+playing Call of Duty was actually a good experience.
+I was using my Epos Head 6 Pro,
+which I had trouble getting a decent volume out of
+from the GSX-300 and the controller.
+Even in low gain, I just couldn't use those at full volume.
+So it was a very, very decent experience.
+Battlefield was not that good.
+So when I got the optical in,
+that's when this thing really basically came to life.
+And using the optical, the HDMI audio structure
+and the optical setup,
+Battlefield has been absolutely amazing.
+I've heard people, the pinpoint accuracy of the audio,
+where it's coming from, the audio separation.
+It's mind blowing.
+People flanking you, you just hear them.
+I do this thing where I change the scope
+so I can basically have a bit of an upper hand
+in a close quarter battle and then change it
+when somebody's far away.
+Absolutely amazing.
+So for me, I think this device is only worth
+with the optical setup.
+So now this is the value proposition, basically.
+Should you get this?
+If you only have a PS5 and if you don't have a PC,
+I don't think so.
+I think you definitely need a PC.
+There is a way of using it without a PC,
+so you just completely turn everything off
+because originally when it comes out of the box,
+there are a lot of different things applied to it.
+And if you are using it in the USB mode,
+you need to make sure you don't have any
+of the SBX processing done,
+only the EQ that you're doing.
+So you kind of definitely need a PC.
+I wish there was a mobile app
+or better an app on the PlayStation 5 itself.
+So if you don't have an access to a PC,
+this is definitely not the device I would,
+I think the Sound Blaster X4
+because they have the mobile app support
+and it's got the optical in it.
+I think that would be more suitable.
+But if you have an access to a computer or a Mac
+and you want to upgrade your audio,
+I think this is really amazing.
+I used it with the H6 Pro open back,
+there's another HD 598, anything I put into it,
+just sounded absolutely amazing.
+But that's with the HDMI audio extractor.
+Without it, it just gives you louder volume.
+It's still decent,
+but something like the GSX 300 can sort of work as well.
+But at 80 pounds, I have to say, I love this device.
+I've recently acquired the SteelSeries Game Deck Gen 2.
+So please keep an eye out on my channel.
+I'll be doing a comparison of that with this
+because that only has USB
+and it has some features and stuff.
+So I'll be making a detailed comparison.
+I hope there was some useful information in this video.
+If I left anything out,
+if you want to know anything else about this device,
+please do leave me a comment.
+And I want to thank you to everyone who subscribed.
+Your support means a lot.
+I really, really appreciate it.
+And hopefully I'll catch you in one of my next videos.
+Thanks for watching this one.
+Bye.

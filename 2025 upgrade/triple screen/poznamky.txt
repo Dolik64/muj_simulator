@@ -1,0 +1,14 @@
+potrebuji udelat 3d dil ktery se bude na hlinikove profily nasazovat ze shora
+
+on obejme profily a tim umozni je zarazit uplne na doraz cim odstrani stupne volnosti kterych jsem se bal 
+
+
+nyni je jasne jak bude dil vypadat a ted se musi nejak vymodelovat
+
+
+chat nam zatim nemuze pomoct protoze nevi jak vypadaji ty profily ze shora takze musim v nejakem softwaru navrhnout jak to bude vypadat
+
+cilem je to udelat jako nacrt ve fusion 360
+
+
+Could I ask what FOV you use and how many centimeters your monitor is from your eyes?
