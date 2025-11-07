@@ -1,5 +1,9 @@
 potrebuji udelat 3d dil ktery se bude na hlinikove profily nasazovat ze shora
 
+na to seru neni na to v pokoji misto
+
+
+
 on obejme profily a tim umozni je zarazit uplne na doraz cim odstrani stupne volnosti kterych jsem se bal 
 
 
@@ -12,3 +16,7 @@ cilem je to udelat jako nacrt ve fusion 360
 
 
 Could I ask what FOV you use and how many centimeters your monitor is from your eyes?
+
+musis ten simulator prizpusobit svemu pokoji
+
+zatim je v planu dat tam prohnute 32 palcu samsung g6
