@@ -1,0 +1,63 @@
+1) Jádro sestavy (to, co máš v chatu)
+	•	CPU: AMD Ryzen 7 9800X3D, AM5
+8 jader / 16 vláken, 3D V-Cache, aktuálně top herní procesor, oficiálně pro socket AM5 a DDR5.
+	•	GPU: GeForce RTX 5080 16 GB (např. GAINWARD Phoenix / ASUS Prime / Gigabyte Gaming OC)
+Architektura NVIDIA Blackwell, 16 GB GDDR7, DLSS 4, cílené na 1440p/4K gaming; výrobci doporučují cca 850W zdroj.
+	•	RAM: 64 GB DDR5 6000 MHz CL30 – konkrétně
+Kingston FURY 64GB KIT DDR5 6000MT/s CL30 Beast Black EXPO (2×32 GB) – přesně ten typ, co AMD používá v marketingu pro 9800X3D (6000 CL30).
+
+⸻
+
+2) Zbytek sestavy (vše dostupné na Alze)
+
+Základní deska
+	•	ASUS B650E MAX GAMING WIFI W (ATX, AM5)
+	•	Podpora Ryzen 7000/8000/9000 (včetně 9800X3D).
+	•	4× DDR5 (až 8000 MHz OC).
+	•	3× M.2, z toho PCIe 5.0 pro SSD.
+	•	Wi-Fi 6E, slušná napájecí kaskáda, USB-C.
+
+B650E je úplně OK – PCIe 5.0 pro GPU stejně dnes reálně nevyužiješ, ale máš PCIe 5.0 pro budoucí SSD.
+
+Úložiště
+	•	Primární SSD: Samsung 990 PRO 2TB Heatsink, M.2 NVMe, PCIe 4.0
+Rychlosti až 7450/6900 MB/s, 2 TB pro Windows + hry, má vlastní heatsink, takže ho jen nacvakneš do M.2 slotu.
+	•	(Volitelné) druhé SSD – klidně další 2 TB nebo 4 TB NVMe, až budeš potřebovat víc her.
+
+Napájecí zdroj
+	•	Seasonic Focus GX-850 ATX 3.0 (850 W, 80+ Gold, plně modulární)
+ATX 3.0, 12VHPWR/PCIe 5.0 kabel pro RTX 5080, 850 W = přesně to, co Nvidia doporučuje pro tuhle kartu, a Seasonic je velmi kvalitní.
+
+Skříň
+	•	Fractal Design North Charcoal Black TG Dark (ATX Mid-tower)
+	•	Podporuje ATX desky a GPU až do cca 355 mm, takže RTX 5080 (~330 mm) se vejde s rezervou.
+	•	Velmi dobrý airflow, tichá, hezkej „nábytkovej“ vzhled, do sim-corneru se hodí.
+
+Chlazení CPU
+	•	Noctua NH-D15 G2 (air cooler)
+Špičkový vzduchový chladič, v testech má výkon skoro jako 360mm AIO, ale je tišší a bez rizika úniku kapaliny. Plná podpora pro AM5.
+
+V Northu se NH-D15 vejde – jen si ověř výšku chladiče vs. limit skříně (North má limit 170 mm, NH-D15 G2 je ~165 mm, takže OK).
+
+Ventilátory a drobnosti
+	•	Skříň už má základní ventilátory, ale dobrý setup je:
+	•	2× 140 mm intake vepředu (většinou v balení).
+	•	1× 120/140 mm exhaust vzadu (klidně Noctua / Fractal, dle vkusu).
+	•	OS: Windows 11 Home / Pro česká licence (pokud nemáš).
+	•	Pasta obvykle bývá přibalená k Noctua chladiči, takže nic dalšího nepotřebuješ.
+
+⸻
+
+3) Kompatibilita – rychlá kontrola
+	•	Platforma: Všechno je AM5 + DDR5, takže CPU, deska, RAM spolu sedí.
+	•	Napájení: 850W ATX 3.0 zdroj je doporučený pro RTX 5080 a zvládne i přetaktování.
+	•	Rozměry:
+	•	Skříň North – GPU do 355 mm → RTX 5080 kolem 330 mm = v pohodě.
+	•	Výška CPU chladiče – limit skříně 170 mm, NH-D15 G2 ~165 mm → OK.
+	•	Chlazení: 9800X3D má 120 W TDP, takže NH-D15 G2 a dobrý airflow to zvládnou s velkou rezervou.
+
+⸻
+
+4) Orientační cena
+
+Z hrubého součtu aktuálních cen (CPU, GPU, RAM, deska, SSD, PSU, case, chladič) to na Alze a okolních CZ shopech vychází zhruba ~65–75 tisíc Kč bez Windows a monitorů – záleží na konkrétních modelech RTX 5080 a akčních cenách.
