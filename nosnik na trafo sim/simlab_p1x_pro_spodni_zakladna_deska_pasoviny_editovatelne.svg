@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="-120 -120 1600 850" version="1.1">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#111"/>
+    </marker>
+    <style><![CDATA[
+      .frame { fill:#e8ecec; stroke:#111; stroke-width:2; }
+      .opening { fill:none; stroke:#888; stroke-width:1.5; stroke-dasharray:8 5; }
+      .board { fill:#b9d9ff; fill-opacity:0.75; stroke:#003f7f; stroke-width:2.5; }
+      .strip { fill:#bdbdbd; fill-opacity:0.85; stroke:#222; stroke-width:2; }
+      .dim { stroke:#111; stroke-width:1.5; fill:none; marker-start:url(#arrow); marker-end:url(#arrow); }
+      .ext { stroke:#111; stroke-width:1; fill:none; }
+      .label { font-family:Arial, Helvetica, sans-serif; font-size:22px; fill:#111; }
+      .small { font-size:16px; }
+      .title { font-size:28px; font-weight:bold; }
+      .blue { fill:#003f7f; }
+    ]]></style>
+  </defs>
+
+  <text x="0" y="-80" class="label title">Sim-Lab P1X Pro – spodní základna, deska a podpěrné pásoviny</text>
+  <text x="0" y="-50" class="label small">Editovatelný SVG/DXF výkres. Kóty v mm. Koncepční výkres – před výrobou přeměřit reálný rám.</text>
+
+  <!-- Frame profiles -->
+  <rect id="bocnice_leva" class="frame" x="0" y="0" width="1350" height="40"/>
+  <rect id="bocnice_prava" class="frame" x="0" y="540" width="1350" height="40"/>
+  <rect id="predni_profil" class="frame" x="0" y="0" width="40" height="580"/>
+  <rect id="zadni_profil" class="frame" x="1310" y="0" width="40" height="580"/>
+  <rect id="prostredni_pricnik" class="frame" x="860" y="40" width="40" height="500"/>
+
+  <!-- Proposed underside flat bars, drawn under board -->
+  <rect id="pasovina_1_580x40" class="strip" x="975.0" y="0" width="40" height="580"/>
+  <rect id="pasovina_2_580x40" class="strip" x="1195.0" y="0" width="40" height="580"/>
+
+  <!-- Opening and board -->
+  <rect id="otvor_410x500" class="opening" x="900" y="40" width="410" height="500"/>
+  <rect id="deska_370x490" class="board" x="920.0" y="45.0" width="370" height="490"/>
+
+  <!-- Labels -->
+  <text x="1105.0" y="282.0" text-anchor="middle" class="label blue">DESKA 490 × 370</text>
+  <text x="1105.0" y="308.0" text-anchor="middle" class="label small blue">490 mm šířka × 370 mm hloubka</text>
+  <text x="995.0" y="310" text-anchor="middle" transform="rotate(90 995.0 310)" class="label small">pásovina 580 × 40</text>
+  <text x="1215.0" y="310" text-anchor="middle" transform="rotate(90 1215.0 310)" class="label small">pásovina 580 × 40</text>
+
+  <!-- Dimensions: overall -->
+  <line class="ext" x1="0" y1="600" x2="0" y2="660"/>
+  <line class="ext" x1="1350" y1="600" x2="1350" y2="660"/>
+  <line class="dim" x1="0" y1="650" x2="1350" y2="650"/>
+  <text x="675" y="642" text-anchor="middle" class="label">1350</text>
+
+  <line class="ext" x1="1380" y1="0" x2="1450" y2="0"/>
+  <line class="ext" x1="1380" y1="580" x2="1450" y2="580"/>
+  <line class="dim" x1="1430" y1="0" x2="1430" y2="580"/>
+  <text x="1458" y="300" transform="rotate(90 1458 300)" text-anchor="middle" class="label">580</text>
+
+  <!-- Dimensions: opening -->
+  <line class="ext" x1="900" y1="550" x2="900" y2="610"/>
+  <line class="ext" x1="1310" y1="550" x2="1310" y2="610"/>
+  <line class="dim" x1="900" y1="595" x2="1310" y2="595"/>
+  <text x="1105.0" y="587" text-anchor="middle" class="label">410 otvor</text>
+
+  <line class="ext" x1="1322" y1="40" x2="1390" y2="40"/>
+  <line class="ext" x1="1322" y1="540" x2="1390" y2="540"/>
+  <line class="dim" x1="1375" y1="40" x2="1375" y2="540"/>
+  <text x="1403" y="290.0" transform="rotate(90 1403 290.0)" text-anchor="middle" class="label">500 otvor</text>
+
+  <!-- Dimensions: board -->
+  <line class="ext" x1="920.0" y1="33.0" x2="920.0" y2="-10.0"/>
+  <line class="ext" x1="1290.0" y1="33.0" x2="1290.0" y2="-10.0"/>
+  <line class="dim" x1="920.0" y1="0.0" x2="1290.0" y2="0.0"/>
+  <text x="1105.0" y="-8.0" text-anchor="middle" class="label">370 deska</text>
+
+  <line class="ext" x1="908.0" y1="45.0" x2="855.0" y2="45.0"/>
+  <line class="ext" x1="908.0" y1="535.0" x2="855.0" y2="535.0"/>
+  <line class="dim" x1="870.0" y1="45.0" x2="870.0" y2="535.0"/>
+  <text x="842.0" y="290.0" transform="rotate(90 842.0 290.0)" text-anchor="middle" class="label">490 deska</text>
+
+  <!-- Clearance labels -->
+  <text x="910" y="565.0" class="label small">20 mm vůle</text>
+  <text x="1298.0" y="565.0" class="label small">20 mm vůle</text>
+  <text x="1105.0" y="58" text-anchor="middle" class="label small">5 mm</text>
+  <text x="1105.0" y="532" text-anchor="middle" class="label small">5 mm</text>
+
+  <text x="0" y="710" class="label small">Souřadnice jsou v mm. V SVG lze jednotlivé objekty upravit podle ID: deska_370x490, pasovina_1_580x40, pasovina_2_580x40.</text>
+</svg>
